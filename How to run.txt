@@ -1,0 +1,11 @@
+change line 14 to the path where it was saved in your computer
+example - C:\Users\disha\OneDrive\Desktop
+
+open cmd: and install all libraires by following command
+    pip install -r requirments.txt
+
+Once All libraries is installed
+Type the command below in the same directory where source code is available:
+
+    Streamlit run [path to main.py]
+    example - Streamlit run C:\Users\disha\OneDrive\Desktop\netflixviz\main.py
